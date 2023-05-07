@@ -5,7 +5,8 @@
 - Paper accepted at Image and Vision Computing 2023: [Synthetic Data for Face Recognition: Current State and Future Prospects
 ](https://arxiv.org/abs/2305.01021)
 - Paper accepted at Face and Gesture 2023 (FG2023): Unsupervised Face Recognition using Unlabeled Synthetic Data
-- Paper accepted at IJCB 2023: SFace: Privacy-friendly and Accurate Face Recognition using Synthetic Data
+- Paper accepted at IJCB 2022: SFace: Privacy-friendly and Accurate Face Recognition using Synthetic Data
+- Paper accepted at ICPR 2022: QuantFace: Towards Lightweight Face Recognition by Synthetic Data Low-bit Quantization
 
  
 
@@ -29,3 +30,11 @@
 - Paper on [Arxiv](https://arxiv.org/abs/2206.10520)
 - [Code and pretrained models](https://github.com/fdbtrs/SFace-Privacy-friendly-and-Accurate-Face-Recognition-using-Synthetic-Data)
 ![SFace: Privacy-friendly and Accurate Face Recognition using Synthetic Data](https://github.com/fdbtrs/SFace-Privacy-friendly-and-Accurate-Face-Recognition-using-Synthetic-Data/blob/master/images/overview_v6.png)
+
+
+## QuantFace: Towards Lightweight Face Recognition by Synthetic Data Low-bit Quantization
+- Paper on [Arxiv](https://arxiv.org/abs/2206.10526)
+- [Code and pretrained models](https://github.com/fdbtrs/QuantFace)
+![QuantFace: Towards Lightweight Face Recognition by Synthetic Data Low-bit Quantization](https://github.com/fdbtrs/QuantFace/blob/master/plots/framework.png)
+
+
