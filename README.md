@@ -1,4 +1,4 @@
-# Synthetic-Face-Recognition
+# Synthetic-based Face Recognition
 
 ## News
 - Paper accepted at CVPRW 2023: Identity-driven Three-Player Generative Adversarial Network for Synthetic-based Face Recognition
