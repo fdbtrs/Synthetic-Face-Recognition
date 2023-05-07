@@ -1,7 +1,7 @@
 # Synthetic-based Face Recognition
 
 ## News
-- Paper accepted at CVPRW 2023: Identity-driven Three-Player Generative Adversarial Network for Synthetic-based Face Recognition
+- Paper accepted at CVPRW 2023: [Identity-driven Three-Player Generative Adversarial Network for Synthetic-based Face Recognition](#Identity-driven-three-player-generative-adversarial-network-for-synthetic-based-face-recognition)
 - Paper accepted at Image and Vision Computing 2023: [Synthetic Data for Face Recognition: Current State and Future Prospects
 ](https://arxiv.org/abs/2305.01021)
 - Paper accepted at Face and Gesture 2023 (FG2023): Unsupervised Face Recognition using Unlabeled Synthetic Data
