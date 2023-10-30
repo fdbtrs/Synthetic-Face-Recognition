@@ -17,7 +17,7 @@
 ## Identity-driven Three-Player Generative Adversarial Network for Synthetic-based Face Recognition 
 
 - Paper on [Arxiv](https://arxiv.org/abs/2305.00358)
-- Code and pretrained models will be soon released
+- [code](https://github.com/fdbtrs/Three-Player-GAN-IDnet)
 
 ![Identity-driven Three-Player Generative Adversarial Network for Synthetic-based Face Recognition](images/overview_IDnet.png)
 
