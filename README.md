@@ -1,6 +1,8 @@
 # Synthetic-based Face Recognition
 
 ## News
+- Paper accepted at ICCV 2023: [IDiff-Face: Synthetic-based Face Recognition through Fizzy Identity-conditioned Diffusion Models](#IDiff-Face:-Synthetic-based-Face-Recognition-through-Fizzy-Identity-conditioned-Diffusion-Models)
+
 - Paper accepted at CVPRW 2023: [Identity-driven Three-Player Generative Adversarial Network for Synthetic-based Face Recognition](#Identity-driven-three-player-generative-adversarial-network-for-synthetic-based-face-recognition)
 - Paper accepted at Image and Vision Computing (IVC) 2023: [Synthetic Data for Face Recognition: Current State and Future Prospects
 ](https://arxiv.org/abs/2305.01021)
@@ -8,6 +10,9 @@
 - Paper accepted at IJCB 2022: [SFace: Privacy-friendly and Accurate Face Recognition using Synthetic Data](#SFace-Privacy-friendly-and-Accurate-Face-Recognition-using-Synthetic-Data)
 - Paper accepted at ICPR 2022: [QuantFace: Towards Lightweight Face Recognition by Synthetic Data Low-bit Quantization](#quantface-towards-lightweight-face-recognition-by-synthetic-data-low-bit-quantization)
 
+## IDiff-Face: Synthetic-based Face Recognition through Fizzy Identity-conditioned Diffusion Models
+- Paper on [Arxiv](https://arxiv.org/abs/2308.04995)
+- [Code](https://github.com/fdbtrs/IDiff-Face)
 
 ## Identity-driven Three-Player Generative Adversarial Network for Synthetic-based Face Recognition 
 
